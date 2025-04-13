@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue; 
+scroll-behavior: smooth;
+    
+  }
+  .navbar {
+    background-color: pink; 
+  }
+  #about img {
+    max-width: 250px;
+    border-radius: 50%;
+  }
+  footer {
+    background-color:lightblue;
+    padding: 20px 0;
+  }
+  
